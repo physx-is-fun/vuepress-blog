@@ -5,9 +5,9 @@ import { searchPlugin } from '@vuepress/plugin-search'
 import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
 
 export default defineUserConfig({
-  base: "/",
+  base: '/',
   port: 8081,
-  dest: 'docs',
+  //dest: 'docs',
   lang: "en-US",
   title: "Balázs Tari",
   description: "A blog using vuepress-theme-hope",

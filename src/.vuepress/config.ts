@@ -5,7 +5,7 @@ import { searchPlugin } from '@vuepress/plugin-search'
 import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
 
 export default defineUserConfig({
-  base: "/",
+  base: "/vuepress-blog/",
   port: 8081,
   dest: 'docs',
   lang: "en-US",

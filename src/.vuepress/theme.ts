@@ -42,7 +42,7 @@ export default hopeTheme({
     intro: "/intro.html",
     medias: {
       GitHub: "https://github.com/physx-is-fun",
-      Linkedin: "https://example.com",
+      Linkedin: "https://www.linkedin.com/in/balázs-tari-203bb9213/",
       Researchgate: ["https://www.researchgate.net/profile/Balazs-Tari-2", AVATAR]
     },
   },
